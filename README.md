@@ -26,3 +26,4 @@
 | BSides (Global)     | Worldwide              | Varies (local)        | Varies                 | Community / Grassroots   |
 | HITCON              | Taiwan                 | 5 - 7                 | 8 - 9                  | Community                 |
 | CyberSec (ITHOME)   | Taiwan                 | 11 - 12               | 4 - 5                  | Commercial  / Mixed  |
+| FTSCon    | USA                 | 5 - 6               | 10                  | digital investigations  |
